@@ -1,0 +1,12 @@
+Your name: Michael Montgomery
+Your student ID: 009944662
+Your major: Applied and Computational Math
+Your preferred email address: michael.montgomery@sjsu.edu
+Check one: [x] Undergraduate, [ ] Graduate, [ ] Open university 
+Repeating the class? [ ] Yes, [x] No
+Place and semester where you took a programming course in Java: SJSU
+Course number and grade received:CS 46A, C+
+Place and semester where you took a course in data structures: SJSU
+Course number and grade received: CS 46B, B
+Time it took you to answer the two questions below: 50 Minutes
+Did you ask anyone for help? [ ] Yes, [x] No
