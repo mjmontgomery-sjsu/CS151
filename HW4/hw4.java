@@ -19,7 +19,7 @@ public class hw4 {
 
 				Thread one = new Thread(Test1);
 				Thread two = new Thread(Test1);
-				System.out.println("Question 1A: ");
+				//System.out.println("Question 1A: ");
 				one.setName("Steve");
 				two.setName("Laurene");
 				one.start();
