@@ -18,9 +18,10 @@ public class ShapeOfCar implements MovingShape {
         this.width = width;
 	}
 
-	public void move()
+	public void move(double x_move, double y_move)
     {
-        x++;
+		   x += x_move;
+		   y += y_move;
     }
 
     /**
