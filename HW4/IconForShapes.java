@@ -35,5 +35,4 @@ public class IconForShapes implements Icon {
 	
 	
 	
-
 }
