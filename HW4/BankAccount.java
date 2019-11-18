@@ -23,7 +23,7 @@ public class BankAccount implements Runnable {
 	 {
 	        for (int x = 0; x < 5; x++)
 	        {
-	            completeWithdrawal(20);
+	            completeWithdrawal(10);
 	            if (account.presentBalance() < 0) 
 	            {
 	                System.out.println("The account has been overdrawn!");
