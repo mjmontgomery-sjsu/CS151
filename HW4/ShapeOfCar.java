@@ -92,7 +92,7 @@ public class ShapeOfCar implements MovingShape {
        
        
        
-       
+      
        
         g2.draw(rearWindshield);
     }
