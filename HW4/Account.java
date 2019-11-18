@@ -5,7 +5,7 @@
  */
 public class Account {
 	
-	private int currentBalance = 75;
+	private int currentBalance = 50;
 
 	public int presentBalance() {
 		return currentBalance;
