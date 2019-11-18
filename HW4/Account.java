@@ -1,13 +1,17 @@
-
+/**
+ * Account Class
+ * @author michaelmontgomery
+ *
+ */
 public class Account {
 	
-	private int currentBalance = 50;
+	private int currentBalance = 75;
 
-	public int showBalance() {
+	public int presentBalance() {
 		return currentBalance;
 	}
 
-	public void drawn(int money) {
+	public void withdraw(int money) {
 		currentBalance = currentBalance - money;
 	}
 
